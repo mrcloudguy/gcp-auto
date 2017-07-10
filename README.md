@@ -1,8 +1,4 @@
-# Go Autocomplete
-How to build an ultra-speed autocomplete with Go and jQuery
+Autocomplete with PHP, MySQL and Jquery UI
+=============
 
-
-# Tutorial
-
-Part one: https://scotch.io/@Grork/build-ultra-speed-autocomplete-with-go-and-jquery  
-Part two: https://scotch.io/@Grork/build-ultra-speed-autocomplete-with-go-and-jquery-part-2
+These files acompany the tutorial: [Autocomplete with PHP, MySQL and Jquery UI](http://daveismyname.com/autocomplete-with-php-mysql-and-jquery-ui-bp)
